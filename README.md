@@ -1,5 +1,5 @@
 # wepink-shop
-React E-Commerce shop front-end
+E-commerce website using React, Redux, Hooks, Stripe and Firebase
 
 
 
